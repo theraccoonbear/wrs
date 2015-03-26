@@ -1,0 +1,9 @@
+cache
+!cache/empty
+cache/shows
+!cache/shows/empty
+cache/youtube
+!cache/youtube/empty
+videos
+vid-bak
+config.json
